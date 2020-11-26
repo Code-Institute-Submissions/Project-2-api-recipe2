@@ -40,6 +40,12 @@ main {
 	padding-top:100px;	
 }
 
+/*-----------------Receipe result-------------------*/
+
+.recipe-result{	
+	color: black;
+}
+
 /*-----------------Footer-------------------*/
 
 .footer > .container {
