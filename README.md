@@ -58,7 +58,7 @@ This website is created for anyone who wants to expand their cook book and try a
 
 I desigined my site wireframe using Figma, please see link and screenshots below of my final draft. . 
 
-[Figma - Click here to view my wireframe](https://www.figma.com/file/MQpvMBvXZ2Xhp8LNNiGMO6/Untitled?node-id=0%3A1)
+[Figma - Click here to view my wireframe](https://www.figma.com/file/WjaSzClTP8yYLtU7xgc3PM/Untitled)
 
 ![Figma1](assets/ReadMe.Images/figma.PNG)
 
@@ -108,13 +108,13 @@ at the first glance.
 - [Am I Responsive](http://ami.responsivedesign.is/)
     * To test responsiveness on all screen sizes
 
-- [GitHub Pages](https://jonathanuk84.github.io/Resume/.)
+- [GitHub Pages](https://jonathanuk84.github.io/Project-2-api-recipe2/)
     * Website hosted on GitHub pages
 
 - [Git](https://git-scm.com/)
     * For version control
 
-- [GitHub](https://github)
+- [GitHub](https://github.com/)
     * Repository hosted on GitHub
 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
@@ -126,7 +126,7 @@ at the first glance.
 - [HTML](https://validator.w3.org/) 
     * To validate my HTML code
 
-- [CSS validater](https://jigsaw.w3.org/css-validator/validator)
+- [CSS validater](https://jigsaw.w3.org/css-validator/)
     * To validate my CSS code
 
 - [HTML formatter](https://www.freeformatter.com/html-formatter.html#ad-output)
