@@ -21,6 +21,38 @@ Links below to my GitHub Pages and Github Repository:
 # UX
 This website has been designed to act as an online recipes finder for people looking for specific meals or deserts. It has been created showing my skills 
 in HTML, CSS and js so far.
+I wanted the colours to be fresh and modern but also simple. I wanted the page to look easy to use and navigate.
+The background Image works great as it instantly draws your attention to the center of the screen to where the search bar is location
+so that there is no hesitation of where to go.
+
+The purpose of this site is to allow users to search for recipes. The search field and button are front and center with little
+else on the page to distract from that, in a similar way to the Google homepage.
+
+# User Stories
+This website is created for anyone who wants to expand their cook book and try a new receipe.
+
+ **A user:**
+
+- A user who wants to search a new recipe to learn.
+
+- A professional chief who is looking for a recipe.
+
+- For someone with little cooking knowledge.
+
+- For someone looking for a specific recipe.
+
+
+ **As the page creater:**
+
+- I want the recipes to be up to date.
+
+- I want the users to find classic or moddern dishes or methods of food receipes.
+
+- A user who wants to get inspiration to try new recipes
+
+- I want to utilise an API to provide up to date information to my users.
+
+- I want this page to be simple for all age groups to be able to use and navigate the site with ease. 
 
 # Wireframe
 
@@ -36,31 +68,6 @@ a few little changes such as footer bar.:
 1.  The top navbar is now fixed at the top to ensure ease of navigation from all points on the page.
 
 2.  Boxes with pictures come up below main image showing recipes.
-
-# User Stories
-This website is created for anyone who wants to expand their cook book and try a new receipe.
-
-
- A user:
-- A user who wants to search a new recipe to learn.
-
-- A professional chief who is looking for a recipe.
-
-- For someone with little cooking knowledge.
-
-- For someone looking for a specific recipe.
-
-
- As the page creater:
-- I want the recipes to be up to date.
-
-- I want the users to find classic or moddern dishes or methods of food receipes.
-
-- A user who wants to get inspiration to try new recipes
-
-- I want to utilise an API to provide up to date information to my users.
-
-- I want this page to be simple for all age groups to be able to use and navigate the site with ease. 
 
 # Features
 
