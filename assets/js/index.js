@@ -9,8 +9,9 @@ $(document).ready(function () {
 
         var searchValue = $("#searchInput").val();
         var template = $('#template-result');
+        var searchPattern = searchValue.search(/[^a-zA-Z]+/);
 
-   if(searchValue && !hasNumber(searchValue)){
+   if(searchValue && searchPattern === -1 && !hasNumber(searchValue)){
         $.ajax({
 				url: "https://api.spoonacular.com/recipes/search?query=" + searchValue + "&instructionsRequired=true&apiKey=" + apiKey,
 				contentType: "application/json",
