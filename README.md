@@ -14,7 +14,7 @@ Links below to my GitHub Pages and Github Repository:
 
 - [Github Pages](https://jonathanuk84.github.io/Project-2-api-recipe2/)
 
-- [Github Repository](https://github.com/jonathanuk84/Project-2-api-recipe)
+- [Github Repository](https://github.com/jonathanuk84/Project-2-api-recipe2)
 
 ![AmIResponsive](assets/ReadMe.Images/Responsive.PNG)
 
@@ -40,11 +40,25 @@ a few little changes such as footer bar.:
 # User Stories
 This website is created for anyone who wants to expand their cook book and try a new receipe.
 
-A user:
 
-- Wants to search a new recipe to learn
+ A user:
+- A user who wants to search a new recipe to learn.
 
-- Get inspiration to try new recipes
+- A professional chief who is looking for a recipe.
+
+- For someone with little cooking knowledge.
+
+- For someone looking for a specific recipe.
+
+
+ As the page creater:
+- I want the recipes to be up to date.
+
+- I want the users to find classic or moddern dishes or methods of food receipes.
+
+- A user who wants to get inspiration to try new recipes
+
+- I want to utilise an API to provide up to date information to my users.
 
 - I want this page to be simple for all age groups to be able to use and navigate the site with ease. 
 
@@ -134,13 +148,13 @@ at the first glance.
 
 [HTML Validator](https://validator.w3.org/) checked that all of my HTML code is valid.
 
-![html validator](assets/ReadMe.Images/errors.PNG)
+![html validator](assets/ReadMe.Images/htmlvalidator.PNG)
 
 [CSS Validator](https://jigsaw.w3.org/css-validator/) checked that all of my CSS code is valid.
 
 ![CSS Validator](assets/ReadMe.Images/cssValidator.png)
 
-[JSHint](https://jshint.com/) checked that all of my JavaScript code is valid.
+[JSHint](https://jshint.com/) checked that all of my JavaScript code is valid, it does show two warnings in ES6 that may not run on all systems 
 
 ![JSHint](assets/ReadMe.Images/jshint.PNG)
 
@@ -173,6 +187,13 @@ smoothly and working responsively on all device sizes.
 
 - I have sent it to friends and family to test on other phones and tablets.
     * It has been tested on iphones samsung s8/s10/s20, iPad and Samsung Galaxy S4. Works correctly in portrait and landscape.
+
+# Known Bugs
+
+The only bug I found during my testing is an ES6 error within the JavaScript code. This means that the code may not
+be compatible on all systems if they don't support ES6, this is a common error. I covered this within one of my mentor calls and this is absolutely fine. 
+
+![JSHint](assets/ReadMe.Images/jshint.PNG)
 
 # Deployment and Demo 
 The project is hosted on GitHub Pages
