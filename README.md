@@ -177,7 +177,7 @@ smoothly and working responsively on all device sizes.
 
 [Pingdom](https://tools.pingdom.com) checked the load time for my page
 
-![Pingdom](assets/ReadMe.Images/speedy.PNG)
+![Pingdom](assets/ReadMe.Images/speedy.png)
 
 
 ## Tested on different browsers
